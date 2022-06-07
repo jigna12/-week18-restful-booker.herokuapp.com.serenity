@@ -1,0 +1,3 @@
+com\heroukuapp\bookinginfo\BookingCURDTest.class
+com\heroukuapp\bookinginfo\BookingCURDTestWithSteps.class
+com\heroukuapp\testbase\BookingTestBase.class
